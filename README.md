@@ -1,0 +1,1 @@
+Fire-Tection” an Android mobile 2D adventure decision-making game that aims to increase the awareness of teenage users in San Jose City, Nueva Ecija by developing a game that would help our Bureau of Fire Protection in San Jose City with their campaign to spread awareness among the Filipino people.
